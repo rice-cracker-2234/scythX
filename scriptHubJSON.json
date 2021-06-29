@@ -1,5 +1,6 @@
 {
   "Dark Hub": {
+    "Name": "Dark Hub",
     "Description": "A quality hub that supports over 30+ games.",
     "Loadstring": 'loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()'
   },
